@@ -45,3 +45,7 @@ po/Makefile.in.in
 po/POTFILES
 po/stamp-it
 *.gmo
+src/docklet/.dirstamp
+src/nancy_bot/.dirstamp
+src/notifier/.dirstamp
+src/view/.dirstamp
